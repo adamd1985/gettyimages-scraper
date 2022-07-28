@@ -1,3 +1,3 @@
-numpy
 scrapy
-beautifulsoup
+beautifulsoup4
+pysqlite3 
