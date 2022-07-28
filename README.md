@@ -1,7 +1,7 @@
 # A Python Scraper with Beautiful Soup
  <!-- title: A Python Scraper with Beautiful Soup -->
 
-**NB**: Inspired by amatuerish technical interviews, were they want you to build an entire lousy app, just by reading their mind (ahem: Kalepa Technical Test). You welcome future candidates.
+**NB**: Inspired by **amatuerish technical interviews**, were they want you to build an entire lousy app, just by reading their mind (ahem: Kalepa Technical Test). You welcome future candidates.
 
 ## References
 
