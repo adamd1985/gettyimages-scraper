@@ -1,4 +1,4 @@
-from gettyscraper.spiders.gettyimages import GettyImagesSpider
+from gettyscraper.spiders.gettyscraper import GettyImagesSpider
 from twisted.internet import reactor
 from scrapy.crawler import CrawlerRunner
 from scrapy.utils.log import configure_logging
